@@ -21,6 +21,11 @@ function Projects(){
             tech='Git & Github'
             description='Primeiro versionamento com as ferramentas  '
             repo='https://github.com/welinton19/dio-lab-open-source'/>
+            <Cards
+            title='Portifolio'
+            tech='React,Javascript,CSS e HTML'
+            description='Portfolio criado com React'
+            repo='https://github.com/welinton19/portfolio'/>
             <ButtonB text='Acesse meu Rpositório'link='https://github.com/welinton19?tab=repositories'/>
         </div>
     )
